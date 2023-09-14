@@ -21,6 +21,14 @@
 
  <img width="350" alt="截圖 2023-09-14 上午9 38 32" src="https://github.com/knyliu/PL/assets/131148428/faca76e2-b9fe-4883-8675-487f4ba2a18f" >
 
+* set
+```python=
+set_1 = {"apple", "banana", "cherry"}
+
+set_2 = {"orange", "apple", "melon"}
+
+print(set_1 & set_2)
+```
 ## 作業連結區
 ## 專題連結區
 
