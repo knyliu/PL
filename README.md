@@ -25,7 +25,7 @@ Ex.保留字(int,float),內建函數（bool,set)
 
 Ex.violate_law 
 
- <img width="1050" alt="截圖 2023-09-14 上午9 38 32" src="https://github.com/knyliu/PL/assets/131148428/faca76e2-b9fe-4883-8675-487f4ba2a18f" =300x>
+ <img width="1050" alt="截圖 2023-09-14 上午9 38 32" src="https://github.com/knyliu/PL/assets/131148428/faca76e2-b9fe-4883-8675-487f4ba2a18f" >
 
 ## 作業連結區
 ## 專題連結區
