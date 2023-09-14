@@ -7,6 +7,19 @@
 系級：科技系2年級
 
 ## 課程筆記區
+### Week 1 / Introduction
+### Week 2 / Basics in Python
+* Data Type
+* 變數命名規則
+(1)只能由英文字母、數字、底線或中文字所組成，建議使用英文字母
+(2)英文字母大小寫是有差異的   
+Ex.Fine與fine是兩個不同的變數
+(3)不能是保留字或內建函數名稱 
+Ex.保留字(int,float),內建函數（bool,set)
+(4)變數名稱不能有空白，空白可用底線代替
+Ex.violate_law 
+ <img width="1050" alt="截圖 2023-09-14 上午9 38 32" src="https://github.com/knyliu/PL/assets/131148428/faca76e2-b9fe-4883-8675-487f4ba2a18f">
+
 ## 作業連結區
 ## 專題連結區
 
