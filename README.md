@@ -19,7 +19,7 @@
   
   * 變數名稱不能有空白，空白可用底線代替
 
- <img width="350" alt="截圖 2023-09-14 上午9 38 32" src="https://github.com/knyliu/PL/assets/131148428/faca76e2-b9fe-4883-8675-487f4ba2a18f" >
+  * <img width="350" alt="截圖 2023-09-14 上午9 38 32" src="https://github.com/knyliu/PL/assets/131148428/faca76e2-b9fe-4883-8675-487f4ba2a18f" >
 
 * set
 ```python=
