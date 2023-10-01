@@ -30,6 +30,11 @@ set_2 = {"orange", "apple", "melon"}
 print(set_1 & set_2)
 ```
 ## 作業連結區
+
+### HW1
+
+[HW1](https://github.com/knyliu/PL/blob/main/PL_HW1/PL_HW1.ipynb) 
+
 ## 專題連結區
 
 
