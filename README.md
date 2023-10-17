@@ -7,6 +7,9 @@
 系級：科技系2年級
 
 ## 課程筆記區
+
+[最新筆記](https://hackmd.io/@kennyliou/r1V4OLMlp) 
+
 ### Week 1 / Introduction
 ### Week 2 / Basics in Python
 * Data Type
@@ -29,7 +32,6 @@ set_2 = {"orange", "apple", "melon"}
 
 print(set_1 & set_2)
 ```
-
 ### Week 3 / Python 基礎 02
 https://colab.research.google.com/drive/1Ba8oYWiPkpJi90jA8v3adj4bqKW5JBMU?usp=sharing#scrollTo=O0nzGW5_51zh
 ### Week 4 / Python 基礎 03
