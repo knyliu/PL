@@ -95,9 +95,13 @@ income_by_job
 
 ## 作業連結區
 
-### HW1
+### HW1 - Basics of Python
 
 [HW1](https://github.com/knyliu/PL/blob/main/PL_HW1/PL_HW1.ipynb) 
+
+### HW2 - Data Cleaning / Data Analysis / Data Visualization
+
+[HW2](https://github.com/knyliu/PL/blob/main/PL_HW2/PL_HW2.ipynb) 
 
 ## 專題連結區
 
