@@ -10,7 +10,7 @@
 
 ## 版本3 - PL_HW3_v3：
     此版本可以爬取網頁中上萬頁的資料，且只儲存成一個 csv file、一個 json file 。
-    請注意：目前將檔案頁數設為20，以防止檔案過大。若想爬取整個網頁上的資料，請註解掉以下這行程式碼：```page_number = 10```。
+    請注意：目前將檔案頁數設為20，以防止檔案過大。若想爬取整個網頁上的資料，請註解掉以下這行程式碼：```page_number = 20```。
 
 ## 測試LLM - PL_HW3_LLM_test：
     如果在得到LLM的 csv file 後，想測試該 LLM ，歡迎使用這個程式碼來測試。
@@ -32,7 +32,7 @@ This version only crawls the first page of the website and also outlines my thou
 This version can scrape data from tens of thousands of pages on the website and save it as multiple CSV files according to the website's pagination. Please note: The number of pages for file creation is currently set to 10 to prevent excessively large files. If you want to scrape data from the entire website, please comment out the following line of code: ```page_number = 10```.
 
 ## Version 3 - PL_HW3_v3:
-This version can scrape data from tens of thousands of pages on the website and save it as a single CSV file. Please note: The number of pages for file creation is currently set to 10 to prevent excessively large files. If you want to scrape data from the entire website, please comment out the following line of code: ```page_number = 10```.
+This version can scrape data from tens of thousands of pages on the website and save it as a single CSV file. Please note: The number of pages for file creation is currently set to 10 to prevent excessively large files. If you want to scrape data from the entire website, please comment out the following line of code: ```page_number = 20```.
 
 ## Test the LLM - PL_HW3_LLM_test：
 If you have obtained an LLM's CSV file and want to test the LLM, you are welcome to use this code for testing.
