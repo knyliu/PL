@@ -15,10 +15,12 @@
 ## 測試LLM - PL_HW3_LLM_test：
 如果在得到LLM的 csv file 後，想測試該 LLM ，歡迎使用這個程式碼來測試。
 你需要準備以下內容以執行該程式：
-    * one csv file from PL_HW3_v1, PL_HW3_v2, or PL_HW3_v3
-    * one API KEY from Hugging Face
-    * the row number (aka the model that you want to use)
-    * the problem you want to ask
+
+* one csv file from PL_HW3_v1, PL_HW3_v2, or PL_HW3_v3
+* one API KEY from Hugging Face
+* the row number (aka the model that you want to use)
+* the problem you want to ask
+  
 若備妥以上內容，請在程式碼 ```#input necessary information here!``` 區域內，放入上述所需資料。
 Keep clicking 'Run' to execute the code and view the result. The output will be displayed at the bottom of this file.
 
@@ -37,10 +39,12 @@ This version can scrape data from tens of thousands of pages on the website and 
 ## Test the LLM - PL_HW3_LLM_test：
 If you have obtained an LLM's CSV file and want to test the LLM, you are welcome to use this code for testing.
 You need to prepare the following information to execute the program:
-    * One CSV file from PL_HW3_v1, PL_HW3_v2, or PL_HW3_v3
-    * One API KEY from Hugging Face
-    * The row number (i.e., the model you want to use)
-    * The problem you want to ask
+
+* one csv file from PL_HW3_v1, PL_HW3_v2, or PL_HW3_v3
+* one API KEY from Hugging Face
+* the row number (aka the model that you want to use)
+* the problem you want to ask
+  
 If you have the above information ready, please place it in the ```#input necessary information here!``` section of the code.
 Keep clicking 'Run' to execute the code and view the result. The output will be displayed at the bottom of this file.
 
