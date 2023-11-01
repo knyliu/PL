@@ -41,6 +41,6 @@ You need to prepare the following information to execute the program:
     * One API KEY from Hugging Face
     * The row number (i.e., the model you want to use)
     * The problem you want to ask
-If you have the above information ready, please place it in the "input necessary information here!" section of the code.
+If you have the above information ready, please place it in the ```#input necessary information here!``` section of the code.
 Keep clicking 'Run' to execute the code and view the result. The output will be displayed at the bottom of this file.
 
