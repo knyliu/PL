@@ -105,7 +105,7 @@ income_by_job
 
 ### HW3 - Web Crawler with LLM
 
-[HW3](https://github.com/knyliu/PL/blob/main/PL_HW3/README.md) 
+[HW3](https://github.com/knyliu/PL/blob/main/PL_HW3) 
 
 ## 專題連結區
 
