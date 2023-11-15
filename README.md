@@ -10,7 +10,6 @@
 
 [最新筆記](https://hackmd.io/@kennyliou/r1V4OLMlp) 
 
-::: spoiler Notes
 
 Week 1 / Introduction
 Week 2 / Basics in Python
@@ -95,7 +94,6 @@ income_by_job
 ```
 ![](https://hackmd.io/_uploads/HJFSRLMgT.png)
 
-:::
 
 
 ## 作業連結區
