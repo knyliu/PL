@@ -11,6 +11,7 @@
 [最新筆記](https://hackmd.io/@kennyliou/r1V4OLMlp) 
 
 ::: spoiler Notes
+
 ### Week 1 / Introduction
 ### Week 2 / Basics in Python
 * Data Type
@@ -93,6 +94,7 @@ income_by_job['low_income_ratio'] = income_by_job[' <=50K'] / income_by_job.sum(
 income_by_job
 ```
 ![](https://hackmd.io/_uploads/HJFSRLMgT.png)
+
 :::
 
 
@@ -110,7 +112,7 @@ income_by_job
 
 [HW3](https://github.com/knyliu/PL/blob/main/PL_HW3) 
 
-### HW3 - Word Clour
+### HW4 - Word Clour
 
 [HW4](https://github.com/knyliu/PL/blob/main/PL_HW4) 
 
