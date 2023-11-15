@@ -10,6 +10,7 @@
 
 [最新筆記](https://hackmd.io/@kennyliou/r1V4OLMlp) 
 
+::: spoiler Notes
 ### Week 1 / Introduction
 ### Week 2 / Basics in Python
 * Data Type
@@ -92,6 +93,8 @@ income_by_job['low_income_ratio'] = income_by_job[' <=50K'] / income_by_job.sum(
 income_by_job
 ```
 ![](https://hackmd.io/_uploads/HJFSRLMgT.png)
+:::
+
 
 ## 作業連結區
 
@@ -110,6 +113,8 @@ income_by_job
 ### HW3 - Word Clour
 
 [HW4](https://github.com/knyliu/PL/blob/main/PL_HW4) 
+
+
 [HW4 Medium](https://medium.com/@kenny_39527/first-step-for-muggles-to-become-wizards-mastering-common-spells-4553d7a380e4)
 
 ## 專題連結區
