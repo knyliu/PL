@@ -107,6 +107,11 @@ income_by_job
 
 [HW3](https://github.com/knyliu/PL/blob/main/PL_HW3) 
 
+### HW3 - Word Clour
+
+[HW4](https://github.com/knyliu/PL/blob/main/PL_HW4) 
+[HW4 Medium](https://medium.com/@kenny_39527/first-step-for-muggles-to-become-wizards-mastering-common-spells-4553d7a380e4)
+
 ## 專題連結區
 
 
