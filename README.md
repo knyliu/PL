@@ -117,9 +117,11 @@ income_by_job
 
 [HW4 Medium](https://medium.com/@kenny_39527/first-step-for-muggles-to-become-wizards-mastering-common-spells-4553d7a380e4)
 
+### HW5 - Word Cloud and LDA
+
+[HW5](https://github.com/knyliu/PL/blob/main/PL_HW5) 
+
+
+[HW5 Medium](https://medium.com/@kenny_39527/an-overview-of-lda-and-wordcloud-analysis-of-python-tutorials-on-w3schools-13763d25fa3a)
+
 ## 專題連結區
-
-
-```
-Markdown 語法說明：https://markdown.tw/
-```
